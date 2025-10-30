@@ -1,0 +1,87 @@
+<!-- services -->
+<section class="services py-5" id="services">
+  <div class="container py-md-5">
+    <h3 class="heading text-center mb-3 mb-sm-5 text-white">Our Services</h3>
+
+    <div class="row service-grid-grids text-center">
+      <div class="col-lg-4 col-md-6 service-grid mb-4">
+        <div class="service-card p-4 shadow">
+          <div class="service-icon mb-3">
+            <span class="fas fa-bed"></span>
+          </div>
+          <h4>Best Hotels</h4>
+          <p>We provide the best stay experience within budget — bachelor rooms for 4 pax and couple rooms for 2 pax (kids under 2 stay free).</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 service-grid mb-4">
+        <div class="service-card p-4 shadow">
+          <div class="service-icon mb-3">
+            <span class="fa fa-glide-g"></span>
+          </div>
+          <h4>Tourist Guide</h4>
+          <p>Our experienced and friendly guides make every trip smooth and memorable. We never compromise on guest satisfaction.</p>
+        </div>
+      </div>
+
+      <div class="col-lg-4 col-md-6 service-grid mb-4">
+        <div class="service-card p-4 shadow">
+          <div class="service-icon mb-3">
+            <span class="fas fa-bus"></span>
+          </div>
+          <h4>Transport</h4>
+          <p>Comfortable and reserved transport — from buses to local vehicles, ensuring a safe and enjoyable journey.</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- tour image grid -->
+    <div class="row mt-5 g-3">
+      <div class="col-md-6">
+        <div class="tour-box bg-image-left">
+          <h4>Cox’s Bazar Tour</h4>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="tour-box bg-image-right mb-3">
+          <h4>Bandarban Tour</h4>
+        </div>
+
+        <div class="row g-3">
+          <div class="col-md-6">
+            <div class="tour-box bg-image-bottom1">
+              <h4>Sajek Tour</h4>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="tour-box bg-image-bottom2">
+              <h4>Sundarban Tour</h4>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="tour-box bg-image-bottom3">
+              <h4>Rangamati Tour</h4>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="tour-box bg-image-bottom4">
+              <h4>Shremangal Tour</h4>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="tour-box bg-image-bottom5">
+              <h4>Shitakundu</h4>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="tour-box bg-image-bottom6">
+              <h4>Sylhet</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- //services -->
